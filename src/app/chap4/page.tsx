@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link';
 import Image from 'next/image';
-import chap4Img from '../chap4/chap4img.png';
+import chap4Img from '../img/chap4img.png';
 
 const Chap4 = () => {
   return (
