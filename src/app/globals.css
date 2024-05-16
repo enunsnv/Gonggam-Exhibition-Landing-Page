@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.font-custom {
+  font-family: 'Hiragino Mincho Pro', serif;
+}
