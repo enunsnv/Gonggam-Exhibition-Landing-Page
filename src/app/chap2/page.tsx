@@ -5,7 +5,7 @@ import chap2Img from '../chap2/chap2img.png';
 const Chap2 = () => {
   return (
     <div>
-      <Image src={chap2Img} layout="responsive"/>
+      <Image src={chap2Img} alt="image" layout="responsive"/>
       <div className='bg-[#191f23] text-[#c6d2d5] font-custom text-center text-xl py-[50px] leading-10'>
       전시회장 3면 전체를 활용하여 후쿠시마 주민들의 아픈 기억의 순간을 표현한 미디어아트 작품입니다. <br/> <br/>
       평화로운 일상에서부터 전개되는 현장의 생생함을 느껴보세요. <br/>
