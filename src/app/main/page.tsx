@@ -7,7 +7,7 @@ import LocImage from '../main/locationimg.png';
 const Home = () => {
   return (
     <div>
-      <Image src={mainImage} alt="image" layout="responsive"/>
+      <Image src={mainImage} alt="image" layout="responsive" style={{ maxWidth: '100%', height: 'auto' }}/>
      
       <div className='bg-[#191f23] text-[#c6d2d5] font-custom text-center text-xl'>
 
@@ -32,7 +32,7 @@ const Home = () => {
         이러한 한국에서의 전시를 기반으로 추후 일본에서의 전시를 기획 중에 있으며, 관람객 여러분도 마지막 작품에 참여해 관람자로만 국한되지 않고 소통할 수 있습니다. <br/>
 
         </div>
-        <Image src={LocImage} alt="image" className="pr-0" layout="responsive" ></Image>
+        <Image src={LocImage} alt="image" className="pr-0" layout="responsive"  style={{ maxWidth: '100%', height: 'auto' }} ></Image>
         <div className="max-w-5xl mx-auto p-5">
           <Link href="/chap1" passHref>
           <div className="block p-5 pr-[500px] my-[80px] cursor-pointer hover:animate-pulse">
