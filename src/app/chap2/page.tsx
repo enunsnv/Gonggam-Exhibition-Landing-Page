@@ -1,6 +1,6 @@
 
 import Image from 'next/image';
-import chap2Img from '../img/chap2img.png';
+import chap2Img from 'my-app/public/img/chap2img.png';
 
 const Chap2 = () => {
   return (
