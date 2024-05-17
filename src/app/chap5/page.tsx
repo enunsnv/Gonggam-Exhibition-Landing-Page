@@ -2,7 +2,7 @@
 
 
 import Image from 'next/image';
-import chap5Img from 'my-app/public/img/chap5img.png';
+import chap5Img from '../public/img/chap5img.png';
 const Chap5 = () => {
   return (
     <div>
