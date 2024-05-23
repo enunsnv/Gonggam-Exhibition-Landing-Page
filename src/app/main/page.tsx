@@ -1,8 +1,8 @@
 'use client'
 import Link from 'next/link';
 import Image from 'next/image';
-import mainImage from '../main/mainimg.png';
-import LocImage from '../main/locationimg.png';
+import mainImage from './mainimg.png';
+import LocImage from './locationimg.png';
 
 const Home = () => {
   return (
