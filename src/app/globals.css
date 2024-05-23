@@ -33,10 +33,10 @@ body {
 }
 
 @font-face {
-  font-family: 'NanumMyeongjo'; /* 폰트 패밀리 이름 */
-  src: url('/my-app/src/app/NanumMyeongjo.ttf') format('ttf'); /* 폰트 파일 경로 */
+  font-family: 'NanumMyeongjo'; 
+  src: url('/my-app/src/app/font/NanumMyeongjo.ttf') format('truetype'); 
 }
 
 .font-custom {
-  font-family: 'NanumMyeongjo', 'Hiragino Mincho Pro', serif;
+  font-family: 'NanumMyeongjo', serif;
 }
