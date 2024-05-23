@@ -1,5 +1,7 @@
-export default async function Page() {
-  // This fetch will run on the server during `next build`
+import { Inter } from 'next/font/google';
+import Home from './main/page';
 
-  return <main>...</main>
+
+export default async function Page() {
+  return <Home />;
 }
