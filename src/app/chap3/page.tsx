@@ -6,7 +6,7 @@ import chap3Img from '../public/img/chap3img.png';
 
 const Chap3 = () => {
   return (
-    <div>
+    <div className='bg-[#191f23] h-screen'>
       <Image src={chap3Img} alt="image" layout="responsive"  style={{ maxWidth: '100%', height: 'auto' }}/>
       
       <div className='bg-[#191f23] text-[#c6d2d5] font-custom text-center p-[50px] text-sm'>

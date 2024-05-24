@@ -5,7 +5,7 @@ import Image from 'next/image';
 import chap5Img from '../public/img/chap5img.png';
 const Chap5 = () => {
   return (
-    <div>
+    <div className='bg-[#191f23] h-screen'>
       <Image src={chap5Img} alt="image" layout="responsive"  style={{ maxWidth: '100%', height: 'auto' }}/>
       <div className='bg-[#191f23] text-[#c6d2d5] font-custom text-center p-[50px] text-sm'>
         <div className="text-xl mb-7 p-[50px]"> 공감의 마지막 </div>
