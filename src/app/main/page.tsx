@@ -46,7 +46,7 @@ const Home = () => {
 
           </Link>
           <Link href="/chap2" passHref>
-            <div className="block p-10 ml-[250px] my-[30px] ml-cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+            <div className="block p-20 ml-[250px] my-[30px] ml-cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
               <p>공감의 두번째,</p>
               <p className='text-3xl py-5'>기억의 &nbsp; 순간</p>
             </div>
@@ -58,7 +58,7 @@ const Home = () => {
             </div>
           </Link>
           <Link href="/chap4" passHref>
-            <div className="block p-10 ml-[250px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+            <div className="block p-20 ml-[250px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
               <p>공감의 네번째,</p>
               <p className='text-3xl py-5'>소리로 &nbsp; 그리다</p>
             </div>
