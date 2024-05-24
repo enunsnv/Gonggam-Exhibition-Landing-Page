@@ -39,32 +39,32 @@ const Home = () => {
         </div>
         <div className="p-5">
           <Link href="/chap1" passHref>
-          <div className="block p-5 pr-[350px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+          <div className="block p-10 pr-[350px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
             <p className="">공감의 첫번째,</p>
             <p className='text-3xl py-5'>너도, &nbsp; 나도, &nbsp; 우리도</p>
           </div>
 
           </Link>
           <Link href="/chap2" passHref>
-            <div className="block p-5 ml-[330px] my-[30px] ml-cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+            <div className="block p-10 ml-[250px] my-[30px] ml-cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
               <p>공감의 두번째,</p>
               <p className='text-3xl py-5'>기억의 &nbsp; 순간</p>
             </div>
           </Link>
           <Link href="/chap3" passHref>
-            <div className="block p-5 pr-[350px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+            <div className="block p-10 pr-[350px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
               <p>공감의 세번째,</p>
               <p className='text-3xl py-5'>마주하다</p>
             </div>
           </Link>
           <Link href="/chap4" passHref>
-            <div className="block p-5 ml-[330px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+            <div className="block p-10 ml-[250px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
               <p>공감의 네번째,</p>
               <p className='text-3xl py-5'>소리로 &nbsp; 그리다</p>
             </div>
           </Link>
           <Link href="/chap5" passHref>
-            <div className="block p-5 pr-[350px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
+            <div className="block p-10 pr-[350px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
               <p>공감의 결말,</p>
               <p className='text-3xl py-5'>공감을 전하다</p>
             </div>
