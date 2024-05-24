@@ -9,7 +9,7 @@ const Home = () => {
     <div className="overflow-auto">
       <Image src={mainImage} alt="image" style={{ maxWidth: '100%', height: 'auto' }}/>
      
-      <div className='bg-[#191f23] text-[#c6d2d5] text-center nanum-myeongjo-regular text-sm'>
+      <div className='bg-[#191f23] text-[#c6d2d5] text-center font-custom text-sm'>
 
         <div className='p-[50px]'>
           <div className="text-xl mb-7"> 전시 안내 </div>
