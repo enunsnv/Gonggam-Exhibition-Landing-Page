@@ -37,7 +37,7 @@ const Home = () => {
         <div className="text-xl my-7"> 관람 순서 안내 </div>
         아래 자세히 알고자 하는 섹션의 글자를 누르면 구체적인 정보를 확인하실 수 있습니다.
         </div>
-        <div className="max-w-5xl p-5">
+        <div className="p-5">
           <Link href="/chap1" passHref>
           <div className="block p-5 pr-[400px] my-[30px] cursor-pointer nanum-myeongjo-regular hover:animate-pulse">
             <p className="">공감의 첫번째,</p>
