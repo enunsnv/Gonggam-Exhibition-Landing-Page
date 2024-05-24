@@ -43,7 +43,14 @@ body {
   font-family: 'NanumMyeongjo', serif;
 }
 
-/* 추가 스타일 */
+
 .font-custom {
   font-family: 'NanumMyeongjo', 'Hiragino Mincho Pro', serif;
 }
+
+.nanum-myeongjo-regular {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
