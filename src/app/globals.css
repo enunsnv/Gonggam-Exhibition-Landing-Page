@@ -34,8 +34,8 @@ body {
 
 @font-face {
   font-family: 'NanumMyeongjo';
-  src: url('/fonts/NanumMyeongjo-Regular.otf') format('otf');
-  src: url('/fonts/NanumMyeongjo-Regular.ttf') format('truetype');
+  src: url('/my-app/src/app/public/font/NanumMyeongjo.otf') format('otf');
+  src: url('/my-app/src/app/public/font/NanumMyeongjo.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
